@@ -56,7 +56,7 @@ else
 		echo "\e[94m====================================================\n";	
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 		echo "\e[91m[X] Masukkan User Registrasi [X]\n";
-		echo "\e[91m[X]    SEGERA JAPRI @HISOKAGON   [X]\n";
+		echo "\e[91m[X]    SEGERA JAPRI @kenzin   [X]\n";
 		echo "\e[91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 goto login;
 }
